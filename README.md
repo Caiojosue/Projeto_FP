@@ -22,7 +22,7 @@ git clone https://github.com/Caiojosue/Projeto_FP
 ```
 ---
 ```bash
-/Trabalho valdir
+/Projeto_FP
 ├── index.html            # Arquivo HTML principal
 ├── tailwind.config.js    # Configurações do Tailwind CSS
 ├── js/                   # Arquivos JavaScript
